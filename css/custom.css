@@ -16,6 +16,10 @@ margin: 0 auto;
   text-align:center;
 }
 
+#history, #meeting, #new {
+  text-decoration:underline;
+}
+
 #video {
   display:block;
   margin:0 auto;
