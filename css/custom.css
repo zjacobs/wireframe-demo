@@ -11,3 +11,7 @@ color:blue;
 display: block;
 margin: 0 auto;
 }
+
+#history, #meeting, #new, #video, #questions, #ask {
+  text-align:center;
+}
