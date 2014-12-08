@@ -12,8 +12,13 @@ display: block;
 margin: 0 auto;
 }
 
-#history, #meeting, #new, #video, #questions, #ask {
+#history, #meeting, #new, #questions, #ask {
   text-align:center;
+}
+
+#video {
+  display:block;
+  margin:0 auto;
 }
 
 #current, #exec, #next {
