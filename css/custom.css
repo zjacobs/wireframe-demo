@@ -15,3 +15,11 @@ margin: 0 auto;
 #history, #meeting, #new, #video, #questions, #ask {
   text-align:center;
 }
+
+#current, #exec, #next {
+  text-align:center;
+}
+
+#current {
+  text-decoration:underline;
+}
