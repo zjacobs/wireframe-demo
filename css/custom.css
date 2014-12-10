@@ -32,3 +32,7 @@ margin: 0 auto;
 #current {
   text-decoration:underline;
 }
+
+#title {
+  text-align:center;
+}
